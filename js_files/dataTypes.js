@@ -47,3 +47,4 @@ else
 }
 
 alert("Hi");
+alert("Cool");
