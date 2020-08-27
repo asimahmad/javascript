@@ -1,5 +1,5 @@
 console.log("Hello everyone");
-document.write("This is written from java script.");
+document.write("This is written from java script."+"<br>");
 var general;
 console.log(general);
 general = 1;
@@ -31,5 +31,19 @@ console.log(typeof input);
 // else{
 //     console.log(parseInt(input)+2);
 // }
+if(isNaN(input))
+{
+    console.log(" not Number");
+    document.write("Number: "+input);
+    confirm("This is not a number");
+    //location.reload(true);
+}
+else
+{
+    console.log("Number");
+    document.write("String: "+input);
+    confirm("Yes this is a number");
+    //location.reload(false);
+}
 
 alert("Hi there");
