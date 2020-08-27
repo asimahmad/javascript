@@ -48,3 +48,6 @@ else
 
 alert("Hi");
 alert("Cool");
+
+alert("Hi-master");
+alert("Cool-master");
