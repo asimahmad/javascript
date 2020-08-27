@@ -46,4 +46,4 @@ else
     //location.reload(false);
 }
 
-alert("Hi there");
+alert("Hi");
