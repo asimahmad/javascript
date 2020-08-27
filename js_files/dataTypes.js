@@ -48,3 +48,8 @@ else
 
 alert("Hi");
 alert("Cool");
+
+alert("Hi-dev");
+alert("Cool-dev");
+alert("Hi-dev");
+alert("Cool-dev");
