@@ -50,14 +50,14 @@ alert("Hi");
 alert("Cool");
 
 
-alert("Hi-master");
-alert("Cool-master");
-alert("Hi-dev");
-alert("Cool-dev");
-alert("Hi-dev");
-alert("Cool-dev");
+// alert("Hi-master");
+// alert("Cool-master");
+// alert("Hi-dev");
+// alert("Cool-dev");
+// alert("Hi-dev");
+// alert("Cool-dev");
 
-alert("hfhfhf");
+// alert("hfhfhf");
 
 
 
